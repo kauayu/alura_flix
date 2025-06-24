@@ -29,9 +29,9 @@ body {
 }
 
 .container {
-  heigth: 100vh;
+  height: 100vh;
   display: grid;
-  grid-template-colums: 50% 50%;
+  grid-template-columns: 50% 50%;
 }
 
 .container_botao{
@@ -59,7 +59,7 @@ body {
 }
 
 .container_imagem{
-  margin: 1em 0 2em 0:
+  margin: 1em 0 2em 0;
 }
 
 .container_caixa{
